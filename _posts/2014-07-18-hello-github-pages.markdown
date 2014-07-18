@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-07-18 15:47:05
+title:  "我的第一篇pages!"
+date:   2014-07-18 16:02:05
 categories: jekyll update
 ---
 
