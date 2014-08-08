@@ -46,8 +46,8 @@ You can see how far you've tilted it backward/forward via:
 CGFloat r = sqrtf(x*x + y*y + z*z);
 CGFloat tiltForwardBackward = acosf(z/r) * 180.0f / M_PI - 90.0f;
 
-
-[http://stackoverflow.com/questions/15646433/measuring-tilt-angle-with-cmmotionmanager]:    http://stackoverflow.com/questions/15646433/measuring-tilt-angle-with-cmmotionmanager
+摘抄：
+[measuring-tilt-angle-with-cmmotionmanager]:    http://stackoverflow.com/questions/15646433/measuring-tilt-angle-with-cmmotionmanager
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
