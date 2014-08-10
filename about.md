@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<ul>
+	<li>姓名： 曾辉</li>
+	<li>年龄： 25</li>
+	<li>城市： 北京 石家庄</li>
+	<li>Email： zenghui@yuenvshen.com</li>
+	<li>Github： <a href="https://github.com/zhzenghui">@zhzenghui</a></li>
+	<li>Github IO： <a href="http://zhzenghui.github.io">http://zhzenghui.github.io/</a></li>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+</ul>
